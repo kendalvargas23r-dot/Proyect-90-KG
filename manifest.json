@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Proyecto 90 KG",
+  "short_name": "90 KG",
+  "description": "Seguimiento personal de peso, nutrición y constancia.",
+  "lang": "es-CR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10130f",
+  "theme_color": "#10130f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
